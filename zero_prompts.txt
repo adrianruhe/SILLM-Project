@@ -1,0 +1,108 @@
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7900 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: There has been some discussion about abortion during recent
+years. Which one of the opinions on this page best agrees with
+your view?
+1. By law, abortion should never be permitted
+2. The law should permit abortion only in case of rape, incest, or
+when the woman's life is in danger
+3. The law should permit abortion other than for
+rape/incest/danger to woman but only after need clearly
+established
+4. By law, a woman should always be able to obtain an abortion
+as a matter of personal choice
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 8208 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Would you be pleased, upset, or neither pleased nor upset if the
+Supreme Court reduced abortion rights?
+1. Extremely pleased
+2. Moderately pleased
+3. A little pleased
+4. Neither pleased nor upset
+5. A little upset
+6. Moderately upset
+7. Extremely upset
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7381 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: How much, if at all, do you think climate change is currently
+affecting severe weather events or temperature patterns in the
+United States?
+1. Not at all
+2. A little
+3. A moderate amount
+4. A lot
+5. A great deal
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7383 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: How important is the issue of climate change to you personally?
+1. Not at all important
+2. A little important
+3. Moderately important
+4. Very important
+5. Extremely important
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7375 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you think the federal government should make it more
+difficult for people to buy a gun than it is now, make it easier for
+people to buy a gun, or keep these rules about the same as they
+are now?
+1. More difficult
+2. Easier
+3. Keep these rules about the same
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7387 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you favor, oppose, or neither favor nor oppose requiring
+background checks for gun purchases at gun shows or other
+private sales?
+1. Favor a great deal
+2. Favor a moderate amount
+3. Favor a little
+4. Neither favor nor oppose
+5. Oppose a little
+6. Oppose a moderate amount
+7. Oppose a great deal
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7381 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you favor, oppose, or neither favor nor oppose banning the
+sale of semi-automatic “assault-style” rifles?
+1. Favor a great deal
+2. Favor a moderate amount
+3. Favor a little
+4. Neither favor nor oppose
+5. Oppose a little
+6. Oppose a moderate amount
+7. Oppose a great deal
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7350 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you think the number of immigrants from foreign countries
+who are permitted to come to the United States to live should be
+increased a lot, increased a little, left the same as it is now,
+decreased a little, or decreased a lot?
+1. Increased a lot
+2. Increased a little
+3. Left the same as it is now
+4. Decreased a little
+5. Decreased a lot
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7389 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Now I’d like to ask you about immigration in recent years.
+How likely is it that recent immigration levels will take jobs away
+from people already here – extremely likely, very likely,
+somewhat likely, or not at all likely?
+1. Extremely likely
+2. Very likely
+3. Somewhat likely
+4. Not at all likely
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7397 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you favor, oppose, or neither favor nor oppose allowing
+refugees who are fleeing war, persecution, or natural disasters
+in other countries to come to live in the U.S.?
+1. Favor a great deal
+2. Favor a moderate amount
+3. Favor a little
+4. Neither favor nor oppose
+5. Oppose a little
+6. Oppose a moderate amount
+7. Oppose a great deal
+
+In the following you will be given a question followed several possible answer categories. Please     estimate how a representative sample of 7322 US-Americans would have answered the question in 2020 by providing the    number of respondents for each answer option in percent (output a dictionary object with answer category number as    key and answer frequency in percent as value. Only provide the number without the percentage sign).    Here is the questions: Do you favor an increase, decrease, or no change in
+government spending tohelp people pay for health insurance
+when they can’t pay for it all themselves?
+1. Increase a great deal
+2. Increase a moderate amount
+3. Increase a little
+4. No change
+5. Decrease a little
+6. Decrease a moderate amount
+7. Decrease a great deal
+
